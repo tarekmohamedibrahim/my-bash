@@ -1,0 +1,3 @@
+alias a="vim alias" 
+alias v="vim abs-guide.sh" 
+alias r="./abs-guide.sh"

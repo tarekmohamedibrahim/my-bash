@@ -1,0 +1,10 @@
+set tabstop=4
+set expandtab
+set autoindent
+map <space>w :w<cr>
+map <space>q :q!<cr>
+map <space>a :wq<cr>
+:imap kk :q<cr>
+:imap jj <Esc>
+let @q="0datggPi#" 
+let @w="0datGo#pwwaWggjj" 
